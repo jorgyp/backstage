@@ -1,5 +1,21 @@
 # @backstage/plugin-techdocs
 
+## 0.9.4
+
+### Patch Changes
+
+- 4ea9df9d3: Set admonition font size to 1rem in TechDocs to align with the rest of the document's font sizes.
+  Fixes #5448 and #5541.
+- bf805b467: Fixes #5529, a bug that prevented TechDocs from rendering pages containing malformed links.
+- Updated dependencies [0fd4ea443]
+- Updated dependencies [add62a455]
+- Updated dependencies [cc592248b]
+- Updated dependencies [704875e26]
+  - @backstage/integration@0.5.4
+  - @backstage/catalog-model@0.8.0
+  - @backstage/core@0.7.11
+  - @backstage/plugin-catalog-react@0.1.7
+
 ## 0.9.3
 
 ### Patch Changes

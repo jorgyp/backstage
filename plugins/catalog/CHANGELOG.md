@@ -1,5 +1,20 @@
 # @backstage/plugin-catalog
 
+## 0.5.9
+
+### Patch Changes
+
+- 7ab5bfe68: Add support for fullHeight variant to the AboutCard
+- Updated dependencies [0fd4ea443]
+- Updated dependencies [add62a455]
+- Updated dependencies [cc592248b]
+- Updated dependencies [704875e26]
+  - @backstage/integration@0.5.4
+  - @backstage/catalog-client@0.3.12
+  - @backstage/catalog-model@0.8.0
+  - @backstage/core@0.7.11
+  - @backstage/plugin-catalog-react@0.1.7
+
 ## 0.5.8
 
 ### Patch Changes
